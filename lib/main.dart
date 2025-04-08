@@ -7,11 +7,11 @@ import 'package:permission_handler/permission_handler.dart';
 void main() => runApp(const MyApp());
 
 // Fill in the app ID obtained from Agora Console
-const appId = "<-- Insert app Id -->";
+const appId = "721b5080ae69477589ccabb5cac5c6f0";
 // Fill in the temporary token generated from Agora Console
-const token = "<-- Insert token -->";
+const token = "";
 // Fill in the channel name you used to generate the token
-const channel = "<-- Insert channel name -->";
+const channel = "234";
 
 // Main App Widget
 class MyApp extends StatelessWidget {
